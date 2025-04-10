@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey there, I'm Charan!
 
-<!--
-**automatewithcharan/automatewithcharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | Cloud Automation Enthusiast | SRE in the making  
+Welcome to my corner of GitHub — where infrastructure meets automation!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+
+- 🛠️ **Tools & Platforms**: Git, Jenkins, Docker, Kubernetes, Terraform, Ansible, Helm
+- ☁️ **Cloud**: AWS, Azure, GCP
+- 💬 **Scripting & Languages**: Bash, Python, YAML
+- 📊 **Monitoring**: Prometheus, Grafana, ELK Stack
+- 🔐 **Security & Secrets**: HashiCorp Vault, IAM
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=automatewithcharan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automatewithcharan&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tcharan09)  
+- 🌐 [Portfolio/Blog](https://charanthirumalla.online)   
+- 📧 Email: icharan720@gmail.com
+
+---
+
+### ✨ Fun Fact
+
+I automate everything I can — because life’s too short to do things manually. 😄  
+Let’s build smarter systems, one pipeline at a time!
