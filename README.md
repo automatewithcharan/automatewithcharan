@@ -25,8 +25,7 @@ Welcome to my corner of GitHub — where infrastructure meets automation!
 ### 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tcharan09)  
-- 🌐 [Portfolio/Blog](https://charanthirumalla.online)   
-- 📧 Email: icharan720@gmail.com
+- 🌐 [Portfolio/Blog](https://charanthirumalla.com)   
 
 ---
 
